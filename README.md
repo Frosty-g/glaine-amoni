@@ -24,12 +24,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-![Glaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlaineAmoni&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlaineAmoni&layout=compact&theme=radical)  
-
----
-
 ## 📫 How to Reach Me  
 - **Email**: glaineamukhoye@gmail.com  
 - **LinkedIn**: *Coming soon*  
